@@ -3,3 +3,4 @@ For a sustainable growth of any organization it needs to have consistency source
 
 
 Code.R contains the complete code of the project. 
+The PDF file includes the overall analysis of the project
